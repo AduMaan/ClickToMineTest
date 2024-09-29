@@ -13,7 +13,6 @@
     "node-telegram-bot-api": "^0.66.0",
     "telegraph": "^0.8.22"
   },
-  "devDependencies": {},
   "keywords": [],
   "description": ""
 }
